@@ -1,3 +1,3 @@
-# angular-fhwnwq
+# E-commerce Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-fhwnwq)
+Poryecto desarrollado orientado a la venta de productos, el proyecto posee un carrito de compras y la generacion de comprobantes en formato pdf de todas las compras realizadas.
