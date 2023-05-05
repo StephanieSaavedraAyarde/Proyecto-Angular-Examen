@@ -1,3 +1,8 @@
-# E-commerce Angular
+# E-commerce Tienda de Ropa y accesorios
 
-Poryecto desarrollado orientado a la venta de productos, el proyecto posee un carrito de compras y la generacion de comprobantes en formato pdf de todas las compras realizadas.
+El proyecto desarrollado es un e-commerce de una tienda de ropa y accesorios, el proyecto fue desarrollado en Angular y consta de los siguientes elementos:
+- Catalogo de productos.
+- Detalle de productos individualmente.
+- Carrito de compras.
+- Gestión transaccional.
+- Generación de comprobantes en formato pdf.
